@@ -1,0 +1,5 @@
+/home/mhz/TEST/gRPC_test/C++/cmake/CMakeFiles/hw_grpc_proto.dir
+/home/mhz/TEST/gRPC_test/C++/cmake/CMakeFiles/greeter_client.dir
+/home/mhz/TEST/gRPC_test/C++/cmake/CMakeFiles/greeter_server.dir
+/home/mhz/TEST/gRPC_test/C++/cmake/CMakeFiles/edit_cache.dir
+/home/mhz/TEST/gRPC_test/C++/cmake/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+17aaef82ff8cdf0b368b3328b429610d ../protos/helloworld.pb.cc
